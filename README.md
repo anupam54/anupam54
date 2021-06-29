@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><p text-align:'cneter'>Hi there 👋</p></h1>
 
 <!--
 **anupam54/anupam54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
