@@ -1,4 +1,4 @@
-
+<!-- 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <!-- HTML PART -->
+<!--     <!-- HTML PART -->
     <div id="particles-js">
         <h1><p text-align:'cneter'>Hi there 👋</p></h1>
     </div>
@@ -29,7 +29,7 @@
     <script src="particles.js-master/demo/js/app.js"></script>
 </body>
 
-</html>
+</html> -->
 
 
 
@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
